@@ -30,11 +30,7 @@ Program to implement variables and Operators using Java
 Developed by: Sanjay Kumar H
 RegisterNumber: 212223040182
 */
-```
 
-## Sourcecode.java:
-
-```
 import java.util.*;
 public class Main{
     public static void main(String[] args){
